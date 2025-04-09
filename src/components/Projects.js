@@ -16,14 +16,14 @@ const Projects = () => {
           </li>
           <li>
             <h4>
-              <a href="https://your-tic-tac-toy-link.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://tic-tak-orcin.vercel.app/" target="_blank" rel="noopener noreferrer">
                 2. Tic-Tac-Toe Game
               </a>
             </h4>
           </li>
           <li>
             <h4>
-              <a href="https://your-rock-paper-scissor-link.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://rockpp-s.vercel.app/" target="_blank" rel="noopener noreferrer">
                 3. Rock-Paper-Scissors Game
               </a>
             </h4>
