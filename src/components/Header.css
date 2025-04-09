@@ -1,0 +1,21 @@
+.custom-navbar {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 15px 0;
+    transition: 0.3s;
+  }
+  
+  .navbar-brand {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #f8b400;
+  }
+  
+  .nav-link {
+    font-size: 1.1rem;
+    transition: 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #f8b400 !important;
+  }
+  
