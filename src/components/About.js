@@ -10,7 +10,7 @@ const About = () => {
         <div>
           <h2>About Me</h2>
           <p>
-          Good afternoon, Sir/Ma'am.
+          Heyy respected, Sir/Ma'am.
 
 I am Sachin Kr Dubey from Bihar, i completed my 10th Grade from HLHSBS Patna with 64%, and 12th Grade from also HLHSBS Patna with 68%.and I am currently pursuing a Bachelor of Computer Applications (BCA) at IES University, Bhopal. I have a strong passion for full-stack development and constantly strive to expand my technical expertise.
 Technical Skills:
