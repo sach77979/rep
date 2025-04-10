@@ -12,25 +12,26 @@ const Contact = () => {
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
+
   const handleSubmit = (e) => {
     e.preventDefault();
-  
+
     emailjs.sendForm(
       "service_5p9txcg",
       "template_vxeo9g8",
-      e.target,  // Directly reference the form
+      e.target,
       "8bQv5P9qOR3yCClNn"
     ).then(
       () => {
         alert("Message sent successfully!");
-        setFormData({ name: "", email: "", message: "" });  // Clear form
+        setFormData({ name: "", email: "", message: "" });
       },
       () => {
         alert("Failed to send message. Please try again.");
       }
     );
   };
-  
+
   return (
     <section id="contact" className="contact-container">
       <h2>Contact Me</h2>
@@ -60,6 +61,34 @@ const Contact = () => {
         ></textarea>
         <button type="submit">Send Message</button>
       </form>
+
+      {/* Social Links Section */}
+      <div className="contact-links">
+       
+        <ul>
+          <li>
+            <a href="https://www.linkedin.com/in/sachin-dubey-308550257" target="_blank" rel="noopener noreferrer">
+  LinkedIn
+</a>
+
+          </li>
+          <li>
+            <a href="https://t.me/Bhavandar_Sachin" target="_blank" rel="noopener noreferrer">
+              Telegram
+            </a>
+          </li>
+          <li>
+            <a href="https://wa.me/9508173281" target="_blank" rel="noopener noreferrer" download>
+              whatsApp
+            </a>
+          </li>
+          <li>
+            <a href="https://drive.google.com/file/d/1QXAzozwXX5om_nUL3N7ZXZNM5EwI24Ni/view?usp=drivesdk " target="_blank" rel="noopener noreferrer" download>
+              Download Resume
+            </a>
+          </li>
+        </ul>
+      </div>
     </section>
   );
 };
