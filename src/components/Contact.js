@@ -83,7 +83,7 @@ const Contact = () => {
             </a>
           </li>
           <li>
-            <a href="https://drive.google.com/file/d/1QXAzozwXX5om_nUL3N7ZXZNM5EwI24Ni/view?usp=drivesdk " target="_blank" rel="noopener noreferrer" download>
+            <a href="https://drive.google.com/file/d/1z3uo0ZUIwyWJ6_dexSvQC-1DaP9Ch8sW/view?usp=drive_link" target="_blank" rel="noopener noreferrer" download>
               Download Resume
             </a>
           </li>
