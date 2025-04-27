@@ -78,7 +78,7 @@ const Contact = () => {
             </a>
           </li>
           <li>
-            <a href="https://wa.me/9508173281" target="_blank" rel="noopener noreferrer" download>
+            <a href="https://wa.me/+91 9508173281" target="_blank" rel="noopener noreferrer" download>
               whatsApp
             </a>
           </li>
