@@ -36,7 +36,7 @@ const Projects = () => {
             </h4>
           </li>
         </ul>
-        <p><strong>Technologies Used:</strong> React, Bootstrap, CSS, JavaScript, HTML5, node.js, MongoDB</p>
+        <p><strong>Technologies Used:</strong> React, Bootstrap, CSS, JavaScript, HTML5, node.js, Firebase, MongoDB</p>
       </div>
     </section>
   );
