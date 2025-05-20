@@ -12,7 +12,7 @@ const About = () => {
           <p>
           Heyy respected, Sir/Ma'am.
 
-I am Sachin Dubey from Bihar, i completed my 10th Grade from HLHSBS Patna with 64%, and 12th Grade from also HLHSBS Patna with 68%.and I am currently pursuing a Bachelor of Computer Applications (BCA) at IES University, Bhopal. I have a strong passion for full-stack development and constantly strive to expand my technical expertise.
+I am Sachin Dubey from Bihar, i completed my 10th Grade from HLHSBS Patna with 64%, and 12th Grade from also HLHSBS Patna with 68%.and I have complete the Bachelor of Computer Applications (BCA) at IES University, Bhopal. I have a strong passion for full-stack development and constantly strive to expand my technical expertise.
 Technical Skills:
 Frontend: HTML5, CSS, JavaScript, React.js
 
