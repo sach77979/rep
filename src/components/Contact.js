@@ -89,7 +89,7 @@ const Contact = () => {
             </a>
           </li>
           <li>
-            <a href="https://drive.google.com/file/d/1z3uo0ZUIwyWJ6_dexSvQC-1DaP9Ch8sW/view?usp=drive_link" target="_blank" rel="noopener noreferrer" download>
+            <a href="https://drive.google.com/file/d/1Uf8SsHvTX5E9RHGqWgZlUtjwG9UtzYI7/view?usp=drive_link" download>
               Download Resume
             </a>
           </li>
