@@ -79,7 +79,7 @@ const Contact = () => {
             </a>
           </li>
           <li>
-            <a href="https://t.me/Bhavandar_Sachin" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/sach77979" target="_blank" rel="noopener noreferrer">
               Telegram
             </a>
           </li>
